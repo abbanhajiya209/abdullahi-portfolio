@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume | Abdullahi Aliyu Dawud</title>
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header>
+
+    <nav class="navbar">
+
+        <div class="logo">
+            <h2>Abdullahi.</h2>
+        </div>
+
+        <ul class="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="skills.html">Skills</a></li>
+            <li><a href="projects.html">Projects</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="resume.html" class="active">Resume</a></li>
+            <li><a href="blog.html">Blog</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a href="learning.html">Learning Journey</a></li>
+        </ul>
+
+    </nav>
+
+</header>
+
+<section class="page-header">
+    <h1>Resume</h1>
+    <p>A summary of my education, skills, and achievements.</p>
+</section>
+
+<section class="resume-container">
+
+    <div class="resume-section">
+
+        <h2>Profile</h2>
+
+        <p>
+            I am an aspiring Software Engineer with a strong interest in
+            web development and modern technologies. I enjoy building
+            responsive websites and continuously improving my programming
+            skills through practical projects.
+        </p>
+
+    </div>
+
+    <div class="resume-section">
+
+        <h2>Education</h2>
+
+        <ul>
+            <li>B.Sc. Information Technology (In Progress)</li>
+            <li>Responsive Web Design Certification – freeCodeCamp</li>
+        </ul>
+
+    </div>
+
+    <div class="resume-section">
+
+        <h2>Technical Skills</h2>
+
+        <ul>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>JavaScript (Beginner)</li>
+            <li>Git & GitHub</li>
+            <li>Responsive Web Design</li>
+        </ul>
+
+    </div>
+
+    <div class="resume-section">
+
+        <h2>Projects</h2>
+
+        <ul>
+            <li>Survey Form</li>
+            <li>Tribute Page</li>
+            <li>Technical Documentation Page</li>
+            <li>Product Landing Page</li>
+            <li>Personal Portfolio Website</li>
+        </ul>
+
+    </div>
+
+    <div class="resume-section">
+
+        <h2>Certifications</h2>
+
+        <ul>
+            <li>Responsive Web Design – freeCodeCamp</li>
+        </ul>
+
+    </div>
+
+    <div class="download-cv">
+
+        <a href="documents/Abdullahi_Aliyu_Dawud_CV.pdf" class="btn" download>
+            Download CV
+        </a>
+
+    </div>
+
+</section>
+
+<footer>
+
+    <p>&copy; 2026 Abdullahi Aliyu Dawud. All Rights Reserved.</p>
+
+    <div class="social-links">
+        <a href="#">GitHub</a>
+        <a href="#">LinkedIn</a>
+        <a href="#">Email</a>
+    </div>
+
+</footer>
+<a href="#" class="back-top">↑</a>
+</body>
+</html>

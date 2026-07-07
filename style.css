@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skills | Abdullahi Aliyu Dawud</title>
+
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header>
+    <nav class="navbar">
+
+        <div class="logo">
+            <h2>Abdullahi.</h2>
+        </div>
+
+        <ul class="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="skills.html" class="active">Skills</a></li>
+            <li><a href="projects.html">Projects</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+            <li><a href="resume.html">Resume</a></li>
+            <li><a href="blog.html">Blog</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a href="learning.html">Learning Journey</a></li>
+        </ul>
+
+    </nav>
+</header>
+
+<section class="page-header">
+    <h1>My Skills</h1>
+    <p>Technologies and abilities I am developing.</p>
+</section>
+
+<section class="skills-container">
+
+    <div class="skill-card">
+        <h3>HTML5</h3>
+        <p>Building semantic and accessible web pages.</p>
+    </div>
+
+    <div class="skill-card">
+        <h3>CSS3</h3>
+        <p>Creating responsive layouts using Flexbox and Grid.</p>
+    </div>
+
+    <div class="skill-card">
+        <h3>JavaScript</h3>
+        <p>Learning DOM manipulation and interactive web applications.</p>
+    </div>
+
+    <div class="skill-card">
+        <h3>Git & GitHub</h3>
+        <p>Managing projects and collaborating with version control.</p>
+    </div>
+
+    <div class="skill-card">
+        <h3>Responsive Design</h3>
+        <p>Developing websites that work well on all devices.</p>
+    </div>
+
+    <div class="skill-card">
+        <h3>Problem Solving</h3>
+        <p>Finding efficient and practical solutions to coding challenges.</p>
+    </div>
+
+</section>
+
+<section class="progress-section">
+
+    <h2>Skill Levels</h2>
+
+    <div class="progress-item">
+        <span>HTML</span>
+        <div class="progress">
+            <div class="progress-bar html">90%</div>
+        </div>
+    </div>
+
+    <div class="progress-item">
+        <span>CSS</span>
+        <div class="progress">
+            <div class="progress-bar css">85%</div>
+        </div>
+    </div>
+
+    <div class="progress-item">
+        <span>JavaScript</span>
+        <div class="progress">
+            <div class="progress-bar js">65%</div>
+        </div>
+    </div>
+
+    <div class="progress-item">
+        <span>Git & GitHub</span>
+        <div class="progress">
+            <div class="progress-bar git">80%</div>
+        </div>
+    </div>
+
+</section>
+
+<footer>
+
+    <p>&copy; 2026 Abdullahi Aliyu Dawud. All Rights Reserved.</p>
+
+    <div class="social-links">
+        <a href="#">GitHub</a>
+        <a href="#">LinkedIn</a>
+        <a href="#">Email</a>
+    </div>
+
+</footer>
+<a href="#" class="back-top">↑</a>
+</body>
+</html>
