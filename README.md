@@ -1,145 +1,25 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Projects | Abdullahi Aliyu Dawud</title>
+# Personal Portfolio Website
 
-    <link rel="stylesheet" href="css/style.css">
+This is my personal portfolio website developed using HTML and CSS.
 
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
-</head>
-<body>
+## Features
 
-<header>
+- Responsive Design
+- About Me
+- Skills
+- Projects
+- Services
+- Gallery
+- Resume
+- Blog
+- Contact
+- Learning Journey
 
-    <nav class="navbar">
+## Technologies Used
 
-        <div class="logo">
-            <h2>Abdullahi.</h2>
-        </div>
+- HTML5
+- CSS3
 
-        <ul class="nav-links">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="about.html">About</a></li>
-            <li><a href="skills.html">Skills</a></li>
-            <li><a href="projects.html" class="active">Projects</a></li>
-            <li><a href="services.html">Services</a></li>
-            <li><a href="gallery.html">Gallery</a></li>
-            <li><a href="resume.html">Resume</a></li>
-            <li><a href="blog.html">Blog</a></li>
-            <li><a href="contact.html">Contact</a></li>
-            <li><a href="learning.html">Learning Journey</a></li>
-        </ul>
+## Author
 
-    </nav>
-
-</header>
-
-<section class="page-header">
-    <h1>My Projects</h1>
-    <p>A collection of projects I've built while learning web development.</p>
-</section>
-
-<section class="projects-container">
-
-    <div class="project-card">
-
-        <img src="images/project1.jpg" alt="Survey Form">
-
-        <h3>Survey Form</h3>
-
-        <p>
-            A responsive survey form built using semantic HTML and CSS.
-        </p>
-
-        <a href="#" class="btn">View Project</a>
-
-    </div>
-
-    <div class="project-card">
-
-        <img src="images/project2.jpg" alt="Tribute Page">
-
-        <h3>Tribute Page</h3>
-
-        <p>
-            A tribute webpage designed with responsive layouts and clean styling.
-        </p>
-
-        <a href="#" class="btn">View Project</a>
-
-    </div>
-
-    <div class="project-card">
-
-        <img src="images/project3.jpg" alt="Documentation Page">
-
-        <h3>Technical Documentation</h3>
-
-        <p>
-            A documentation website featuring a fixed navigation menu.
-        </p>
-
-        <a href="#" class="btn">View Project</a>
-
-    </div>
-
-    <div class="project-card">
-
-        <img src="images/project4.jpg" alt="Landing Page">
-
-        <h3>Product Landing Page</h3>
-
-        <p>
-            A modern landing page with responsive navigation and sections.
-        </p>
-
-        <a href="#" class="btn">View Project</a>
-
-    </div>
-
-    <div class="project-card">
-
-        <img src="images/project5.jpg" alt="Portfolio">
-
-        <h3>Personal Portfolio</h3>
-
-        <p>
-            A responsive portfolio website highlighting my skills and projects.
-        </p>
-
-        <a href="#" class="btn">View Project</a>
-
-    </div>
-
-    <div class="project-card">
-
-        <img src="images/project6.jpg" alt="Future Project">
-
-        <h3>Upcoming Project</h3>
-
-        <p>
-            More exciting projects will be added as I continue learning.
-        </p>
-
-        <a href="#" class="btn">Coming Soon</a>
-
-    </div>
-
-</section>
-
-<footer>
-
-    <p>&copy; 2026 Abdullahi Aliyu Dawud. All Rights Reserved.</p>
-
-    <div class="social-links">
-        <a href="#">GitHub</a>
-        <a href="#">LinkedIn</a>
-        <a href="#">Email</a>
-    </div>
-
-</footer>
-<a href="#" class="back-top">↑</a>
-</body>
-</html>
+Abdullahi Aliyu Dawud
