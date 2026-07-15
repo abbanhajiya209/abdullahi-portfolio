@@ -802,3 +802,22 @@ img{
     align-items:center;
     font-size:22px;
 }
+.media-section{
+    width:90%;
+    max-width:900px;
+    margin:50px auto;
+    text-align:center;
+}
+
+.media-section h2{
+    margin-bottom:20px;
+    color:#2563eb;
+}
+
+.media-section audio,
+.media-section video,
+.media-section iframe{
+    width:100%;
+    max-width:700px;
+    border-radius:10px;
+}
